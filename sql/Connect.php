@@ -5,7 +5,7 @@
  * Date: 2015/11/5
  * Time: 14:48
  */
-    $con = mysql_connect("localhost","root","yzj19950111");
+    $con = mysql_connect("localhost","root","123456");
     if (!$con)
     {
         die('Could not connect: ' . mysql_error());
